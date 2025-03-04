@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-    <script>
-        window.location.href = 'file:///etc/passwd';
-    </script>
-</body>
-
-</html>
+<img src="x" onerror="alert(1)">
